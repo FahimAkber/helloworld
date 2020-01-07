@@ -1,0 +1,11 @@
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.exe
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.deps.json
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.runtimeconfig.json
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.runtimeconfig.dev.json
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.dll
+C:\Users\DCL\Desktop\HelloWorldFromFahim\bin\Debug\netcoreapp3.1\HelloWorldFromFahim.pdb
+C:\Users\DCL\Desktop\HelloWorldFromFahim\obj\Debug\netcoreapp3.1\HelloWorldFromFahim.csprojAssemblyReference.cache
+C:\Users\DCL\Desktop\HelloWorldFromFahim\obj\Debug\netcoreapp3.1\HelloWorldFromFahim.AssemblyInfoInputs.cache
+C:\Users\DCL\Desktop\HelloWorldFromFahim\obj\Debug\netcoreapp3.1\HelloWorldFromFahim.AssemblyInfo.cs
+C:\Users\DCL\Desktop\HelloWorldFromFahim\obj\Debug\netcoreapp3.1\HelloWorldFromFahim.dll
+C:\Users\DCL\Desktop\HelloWorldFromFahim\obj\Debug\netcoreapp3.1\HelloWorldFromFahim.pdb
